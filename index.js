@@ -3,32 +3,32 @@ let movies = [
       name: "falcon and the winter soldier",
       des:
         " Evans said a potential Captain America return “doesn't quite feel right” at the moment. However, Evans did admit that telling more Captain America stories is appealing to him, so never say never.",
-      image: "images/slider 2.PNG"
+      image: "Images/slider 2.PNG"
     },
     {
       name: "loki",
       des:
         "Loki, the God of Mischief, steps out of his brother's shadow to embark on an adventure that takes place after the events of Avengers",
   
-      image: "images/slider 1.PNG"
+      image: "Images/slider 1.PNG"
     },
     {
       name: "wanda vision",
       des:
         "It follows Wanda Maximoff and Vision as they live an idyllic suburban life in the town of Westview, New Jersey, until their reality starts moving through different decades of sitcom homages and television tropes.",
-      image: "images/slider 3.PNG"
+      image: "Images/slider 3.PNG"
     },
     {
       name: "raya and the last dragon",
       des:
         "Raya, a warrior, sets out to track down Sisu, a dragon, who transferred all her powers into a magical gem which is now scattered all over the kingdom of Kumandra, dividing its people.",
-      image: "images/slider 4.PNG"
+      image: "Images/slider 4.PNG"
     },
     {
       name: "luca",
       des:
         "Luca, a sea monster, befriends Alberto, another one of his kind who takes him on a land adventure. He experiences an exciting summer while keeping his parents in the dark",
-      image: "images/slider 5.PNG"
+      image: "Images/slider 5.PNG"
     }
   ];
   
